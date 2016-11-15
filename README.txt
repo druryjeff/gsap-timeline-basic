@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/druryjeff/pen/BLqXxG.
+gsap-timeline-basic
 
- 
+Demo to illustrate the use of GSAP timelines. Originally created for the course DME3110 at Johnson and Wales University.
